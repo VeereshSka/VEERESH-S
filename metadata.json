@@ -1,0 +1,7 @@
+{
+  "name": "Rural Medical-Care System",
+  "description": "A dashboard for managing a Rural Medical-Care System, connecting health workers, tracking patient vitals, and providing AI-powered diagnostic support for remote areas.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
